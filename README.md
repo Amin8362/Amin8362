@@ -30,6 +30,7 @@ Software & Systems Developer exploring the full computing stack — from polishe
 | [**r8-shoot-cubes**](https://github.com/Amin8362/r8-shoot-cubes) | Flutter • Dart | Shoot & Merge puzzle game with dual math modes & live WAV SFX | [Latest APK](https://github.com/Amin8362/r8-shoot-cubes/releases/latest) |
 | [**r8-farm-shop**](https://github.com/Amin8362/r8-farm-shop) | Flutter • Dart | Stage-based farm & shop tycoon with persistent save & auto-workers | [Latest APK](https://github.com/Amin8362/r8-farm-shop/releases/latest) |
 | [**r8-bininspect**](https://github.com/Amin8362/r8-bininspect) | C11 | Fast zero-dependency ELF/PE binary analyzer with security checks, entropy & hex viewer | [Linux / Win](https://github.com/Amin8362/r8-bininspect/releases/latest) |
+| [**r8-lanshare**](https://github.com/Amin8362/r8-lanshare) | Go | Two-way local Wi-Fi file transfer CLI with terminal QR code, streaming uploads & PIN lock | [Linux / Win](https://github.com/Amin8362/r8-lanshare/releases/latest) |
 ---
 
 ### Engineering Roadmap
