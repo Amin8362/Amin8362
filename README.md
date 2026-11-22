@@ -1,6 +1,9 @@
 <p align="center">
   <img src="./r8force-banner.jpg" alt="R8Force Banner" width="100%" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amin8362&color=eab308&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 # Hi, I'm Amin Shirdeli (R8Force)
 
 Software & Systems Developer exploring the full computing stack — from polished **Android apps & games** down to **C, binary formats, compilers, and x86-64 Assembly**.
